@@ -1,4 +1,3 @@
-# Example solution: matrix addition with nested lists
 matrix_a = [[1, 2], [3, 4]]
 matrix_b = [[5, 6], [7, 8]]
 
@@ -14,4 +13,5 @@ for i in range(rows):
 
 print("Matrix A:", matrix_a)
 print("Matrix B:", matrix_b)
+
 print("Sum:", result)
