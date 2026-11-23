@@ -1,4 +1,4 @@
-# Example solution: list operations
+
 list_data = [3, 1, 4, 1, 5]
 print("Original:", list_data)
 
@@ -15,4 +15,5 @@ list_data.sort()
 print("After sort:", list_data)
 
 list_data.reverse()
+
 print("After reverse:", list_data)
